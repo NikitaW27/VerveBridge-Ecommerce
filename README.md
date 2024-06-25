@@ -1,5 +1,9 @@
 A mobile responsive sample of E-Commerce Website using HTML, CSS, JavaScript and API's
 
+
+### Live-Preview
+[Click Here to View Live Preview](https://nikitaw27.github.io/VerveBridge-Ecommerce/)
+
 ![Screenshot (41)](https://github.com/NikitaW27/VerveBridge-Ecommerce/assets/137439071/81816aec-8a08-430b-bde5-daf78f932d6b)
 
 ![Screenshot (43)](https://github.com/NikitaW27/VerveBridge-Ecommerce/assets/137439071/3a6c42e0-c841-498f-8ffb-26177bc96478)
